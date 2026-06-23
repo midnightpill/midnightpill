@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, 👋
+**Information Security Professional & Master of Science in IT**
 
-<!--
-**midnightpill/midnightpill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in Security Operations (SOC), Threat Investigation, and Automation. Currently leveling up my algorithmic and scripting capabilities.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Security Operations:** IBM QRadar, Splunk, SOAR, Wireshark, Log Analysis
+- **Offensive & Testing:** Nmap, Metasploit, Kali Linux, OWASP Top 10
+- **Scripting & Systems:** Bash / Python (Automation), Linux, Windows Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Repositories
+* 🛡️ **[SOC-Automation-Scripts]** - Python and Bash scripts built for log analysis and task automation.
+* 📝 **[Cybersecurity-Labs]** - Documentation, network maps, and write-ups of my homelab setups.
+* 🚀 **[TomorrowSchool-Challenges]** - Algorithmic and script-development projects.
+
+📫 **How to reach me?*
